@@ -1,5 +1,5 @@
 
-# System Vitality Monitor
+# System Vitality Monitor.
 
 ## Overview
 This project monitors system health using Python.
