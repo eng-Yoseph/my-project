@@ -1,4 +1,4 @@
-# system-vitality-monitor
+
 # System Vitality Monitor
 
 ## Overview
